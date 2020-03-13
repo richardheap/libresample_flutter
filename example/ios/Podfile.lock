@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - libresample_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - libresample_flutter (from `.symlinks/plugins/libresample_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  libresample_flutter:
+    :path: ".symlinks/plugins/libresample_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  libresample_flutter: 5cf0b7dcc10380d517040bf7140333bc6a2182c6
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
